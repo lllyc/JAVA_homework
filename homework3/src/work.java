@@ -6,9 +6,9 @@ public class work {
 		System.out.println("CheesePizza waiting.. :");
 		ps.orderPizza("cheese");
 		System.out.println("\nPepperoniPizza waiting.. :");
-		ps.orderPizza("Pepperoni");
+		ps.orderPizza("pepperoni");
 		System.out.println("\nClamPizza waiting.. :");
-		ps.orderPizza("Clam");
+		ps.orderPizza("clam");
 	}
 
 }

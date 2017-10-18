@@ -10,8 +10,8 @@ public class SimplePizzaFactory {
 				p=new PepperoniPizza();
 			}
 			else{
-				if(type.equals("pepperoni")){
-					p=new PepperoniPizza();
+				if(type.equals("clam")){
+					p=new ClamPizza();
 				}
 				else{
 					p=new Pizza();
