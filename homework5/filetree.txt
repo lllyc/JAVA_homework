@@ -1,0 +1,27 @@
+.settings   Wed Nov 15 18:17:05 CST 2017
+bin   Wed Nov 15 21:44:54 CST 2017
+src   Wed Nov 15 21:44:54 CST 2017
+work1   Wed Nov 15 18:18:22 CST 2017
+work1   Wed Nov 15 18:18:21 CST 2017
+work2   Wed Nov 15 19:15:01 CST 2017
+work2   Wed Nov 15 19:15:00 CST 2017
+work3   Wed Nov 15 20:44:17 CST 2017
+work3   Wed Nov 15 20:44:16 CST 2017
+.classpath  Wed Nov 15 18:17:05 CST 2017  2.939453E-4K
+.project  Wed Nov 15 18:17:05 CST 2017  3.7597655E-4K
+dest.txt  Wed Nov 15 21:50:49 CST 2017  7.8125E-6K
+fileIO.class  Wed Nov 15 19:41:58 CST 2017  0.0021669923K
+fileIO.java  Wed Nov 15 19:41:58 CST 2017  0.0012646484K
+filetree.class  Wed Nov 15 21:08:13 CST 2017  0.0035029296K
+filetree.java  Wed Nov 15 21:08:12 CST 2017  0.0016914062K
+filetree.txt  Wed Nov 15 21:50:57 CST 2017  7.255859E-4K
+list.txt  Wed Nov 15 21:15:21 CST 2017  9.1796875E-4K
+org.eclipse.jdt.core.prefs  Wed Nov 15 18:17:05 CST 2017  5.8398437E-4K
+src.txt  Wed Nov 15 21:50:49 CST 2017  7.8125E-6K
+student.bin  Wed Nov 15 21:49:35 CST 2017  0.0016220703K
+student.class  Wed Nov 15 21:37:52 CST 2017  8.515625E-4K
+student.java  Wed Nov 15 21:37:52 CST 2017  4.5898437E-4K
+student_sort.class  Wed Nov 15 21:44:43 CST 2017  0.003852539K
+student_sort.java  Wed Nov 15 21:44:43 CST 2017  0.0018330078K
+work.class  Wed Nov 15 21:50:42 CST 2017  7.587891E-4K
+work.java  Wed Nov 15 21:50:42 CST 2017  3.388672E-4K
