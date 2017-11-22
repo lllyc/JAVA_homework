@@ -7,6 +7,10 @@ public class work {
         System.out.println("work2 :");
 	    work2.filetree.w2();
 	    System.out.println("work3 :");
-    	work3.student_sort.w3();
+	    work3.IO.w3();
+	    System.out.println("work4 :");
+	    work4.student_sort.w4();
+	    
+
 }
 }
