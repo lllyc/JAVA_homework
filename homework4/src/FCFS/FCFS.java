@@ -17,7 +17,6 @@ public class FCFS extends workTask {
 	public FCFS(){
 		System.out.println("FCFS");
 	}
-	
 	//重写父类方法，实现先FCFS
 	//返回最早到达的服务
 	public Task findTask(List<Task> l) {

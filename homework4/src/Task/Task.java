@@ -15,12 +15,9 @@ public class Task {
 		taskID=a;
 		arrivalTime=b;
 		serviceTime=c;
-	
 	}
-	
 	public void setServiceTime(int a){
-		startingTime=a;
-		
+		startingTime=a;	
 	}
 	public  void setFinishingTime(){
 		finishingTime=startingTime+serviceTime;

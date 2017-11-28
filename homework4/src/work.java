@@ -17,16 +17,16 @@ public class work {
 	public static void main(String[] args) throws IOException {
 		
 	//读写文件
-		gg.makeTask();
+//		gg.makeTask();
 		gg.readtask();
 		
    //执行不同解决方案
+   
+		int N=2;     //执行队列数
 		FCFS fcfs=new FCFS();
-		fcfs.oneList_working();
-		fcfs.twoList_working();
+		fcfs.NList_working(N);
 		SJF sjf=new SJF();
-		sjf.oneList_working();
-		sjf.twoList_working();
+		sjf.NList_working(N);
 	}
 				
 
