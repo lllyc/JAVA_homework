@@ -15,3 +15,6 @@ homework5：第五次作业
    work2: FileTree
    work3:IO_buffer
    work4:student序列化
+homework6：第六次作业
+   sumwork：多线程累加
+   chocolatework：多线程巧克力工厂
